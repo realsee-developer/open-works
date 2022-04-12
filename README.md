@@ -36,10 +36,11 @@ import {
 
 ## 数据 code 对应数据类型
 
-|code              |work|户型图数据|模型房屋标签数据|入户门数据|
-|------------------|----|--------|-------------|--------|
-|81980RNawnbCVaLz0a| 有 |    无   |      无     |   无   |
-|81gmMq5a7zbF9leWMk| 有 |    有   |      有     |   有   |
-|81RojBlJQdVTglNNMr| 有 |    无   |      无     |   无   |
-|81w1MyAQybVcNa97ME| 有 |    无   |      无     |   无   |
-|816lPVZQkQDF5XOpPo| 有 |    无   |      无     |   无   |
+|code              |work|户型图数据|模型房屋标签数据|入户门数据|标尺数据|
+|------------------|----|--------|-------------|--------|-------|  
+|81980RNawnbCVaLz0a| 有 |    无   |      无     |   无   |   无   |  
+|81gmMq5a7zbF9leWMk| 有 |    有   |      有     |   有   |   无   |  
+|81RojBlJQdVTglNNMr| 有 |    无   |      无     |   无   |   无   | 
+|81w1MyAQybVcNa97ME| 有 |    无   |      无     |   无   |   无   |  
+|816lPVZQkQDF5XOpPo| 有 |    无   |      无     |   无   |   无   | 
+|pWLy9nekmQdMXqja  | 有 |    有   |      无     |   无   |   有   |  
